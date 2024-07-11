@@ -1,7 +1,7 @@
 Python程式設計與資料庫實務
 == 
 ## 課程與程式簡介
-- 為計網中心所開之選修課程，學習python，並透過實作資料庫和資料科學，獲得使用Python的實務經驗
+- 為計網中心所開之選修課程，3學分，學習python，並透過實作資料庫和資料科學，獲得使用Python的實務經驗
   
 - [作業一](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/tree/main/%E4%BD%9C%E6%A5%AD%201)：個人獨立完成，內容為python程式設計
   - [題目](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E4%BD%9C%E6%A5%AD%201/Assignment%201%E9%A1%8C%E7%9B%AE.pdf)
