@@ -17,7 +17,7 @@ Python程式設計與資料庫實務
       
 - 期末專題：三人一組合作完成，本組主題為「員工管理系統」
   - 共編的[repository](https://github.com/janiceHuuu/employee_management_system)
-  - [期末成果報告](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.pdf)（我的成果為簡報p5-p15）
+  - [期末成果報告](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.pdf)（我的成果展示於簡報p5-p15）
   - 我的負責內容
     - [main.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/main.py)：所有路徑的程式碼
     - [login.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/login.py)、[login_ui.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/login_ui.py)：輸入帳密所用的程式碼與頁面
