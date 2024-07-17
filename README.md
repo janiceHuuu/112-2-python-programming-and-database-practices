@@ -11,7 +11,7 @@ Python程式設計與資料庫實務
   - [第四題程式碼](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E4%BD%9C%E6%A5%AD%201/assignment1_4/F64126147_assignment1_4.ipynb)：計算停車場最多可停放車輛數
   - [第五題程式碼](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E4%BD%9C%E6%A5%AD%201/assignment1_5/F64126147_assignment1_5.ipynb)：分組反轉字串
     
-- [作業二]()：三人一組合作完成，以原有的程式為基礎並依教授要求，增加程式內容
+- [作業二](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E4%BD%9C%E6%A5%AD2/penpen/penpen.py)：三人一組合作完成，以原有的程式為基礎並依教授要求，增加程式內容
   - 我的負責內容：
     - 增加主角的生命值並顯示，遊戲開始時生命值為 5。當被BOSS碰到時生命值扣2點，當被一般敵人碰到時生命值扣1點，當生命值低於0時遊戲結束
       
