@@ -1,7 +1,7 @@
 Python程式設計與資料庫實務
 == 
 ## 課程與程式簡介
-- 為計網中心所開之選修課程，學習python，並透過實作資料庫和資料科學，獲得使用Python的實務經驗
+- 為計網中心所開之選修課程，3學分，學習python，並透過實作資料庫和資料科學，獲得使用Python的實務經驗
   
 - [作業一](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/tree/main/%E4%BD%9C%E6%A5%AD%201)：個人獨立完成，內容為python程式設計
   - [題目](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E4%BD%9C%E6%A5%AD%201/Assignment%201%E9%A1%8C%E7%9B%AE.pdf)
@@ -16,7 +16,7 @@ Python程式設計與資料庫實務
     - 增加主角的生命值並顯示，遊戲開始時生命值為 5。當被BOSS碰到時生命值扣2點，當被一般敵人碰到時生命值扣1點，當生命值低於0時遊戲結束
       
 - 期末專題：三人一組合作完成，本組主題為「員工管理系統」
-  - 共編的[repository](https://github.com/janiceHuuu/employee_management_system)
+  - 專案的github連結：[Repository](https://github.com/janiceHuuu/employee_management_system)
   - [期末成果報告](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.pdf)（我的成果於簡報「2.成果展示」，p5-p15）
   - 我的負責內容
     - [main.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/main.py)：所有路徑的程式碼
