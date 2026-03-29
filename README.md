@@ -4,6 +4,12 @@ Python程式設計與資料庫實務
 - 為計網中心所開之選修課程，3學分，學習python，並透過實作資料庫和資料科學，獲得使用Python的實務經驗
       
 - 期末專題：三人一組合作完成，本組主題為「員工管理系統」
+<p align="center">
+  <b>系統架構圖</b><br><br>
+  <img src="[https://github.com/user-attachments/assets/96e43004-9e57-4530-a48a-178859887588](https://github.com/user-attachments/assets/aaf79279-5dc0-401f-8309-e84de05eaa6a)" width="700">
+</p>
+
+
   - 專案的github連結：[Repository](https://github.com/janiceHuuu/employee_management_system)
   - [期末成果報告](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.pdf)（我的成果於簡報「2.成果展示」，p5-p15）
   - 我的負責內容
