@@ -6,7 +6,7 @@ Python程式設計與資料庫實務
 - 期末專題：三人一組合作完成，本組主題為「員工管理系統」
 <p align="center">
   <b>系統架構圖</b><br><br>
-  <img src="[https://github.com/user-attachments/assets/96e43004-9e57-4530-a48a-178859887588](https://github.com/user-attachments/assets/aaf79279-5dc0-401f-8309-e84de05eaa6a)" width="700">
+  <img src="https://github.com/user-attachments/assets/496853a1-40a4-4143-ba3b-a9d5d990fdbf" width="700">
 </p>
 
 
