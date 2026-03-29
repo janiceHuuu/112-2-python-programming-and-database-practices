@@ -19,7 +19,7 @@ Python程式設計與資料庫實務
     - 部分[visual_drawing.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/visual_drawing.py)、[visual_drawing_ui.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/visual_drawing_ui.py)：選擇某項條件，並將該條件與員工離職狀況視覺化的程式碼與頁面
     - [drawing_answer.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/drawing_answer.py)、[drawing_answer_ui.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/drawing_answer_ui.py)：呈現視覺化的程式碼與頁面
 
-<br><br><br>
+<br><br>
 
 - [作業一](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/tree/main/%E4%BD%9C%E6%A5%AD%201)：個人獨立完成，內容為python程式設計
   - [題目](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E4%BD%9C%E6%A5%AD%201/Assignment%201%E9%A1%8C%E7%9B%AE.pdf)
