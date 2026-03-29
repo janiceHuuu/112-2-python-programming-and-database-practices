@@ -11,7 +11,7 @@ Python程式設計與資料庫實務
 </p>
 
   - [期末成果報告](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.pdf)（我的成果於簡報「2.成果展示」，p5-p15）
-  - 我的負責內容
+  - 我的負責內容（我負責架構圖中紫色部分的視窗與功能開發，並為粉色部分視窗設計）
     - [main.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/main.py)：所有路徑的程式碼
     - [login.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/login.py)、[login_ui.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/login_ui.py)：輸入帳密所用的程式碼與頁面
     - [nextpage.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/nextpage.py)、[nextpage_ui.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/nextpage_ui.py)：選擇功能的程式碼與頁面
