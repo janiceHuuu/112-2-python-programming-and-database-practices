@@ -5,10 +5,10 @@ Python程式設計與資料庫實務
       
 - 期末專題：三人一組合作完成，本組主題為「員工管理系統」
   - 專案的github連結：[Repository](https://github.com/janiceHuuu/employee_management_system)
-<p align="center">
-  <b>系統架構圖</b><br><br>
-  <img src="https://github.com/user-attachments/assets/496853a1-40a4-4143-ba3b-a9d5d990fdbf" width="700">
-</p>
+  <div align="center">
+    <b>系統架構圖</b><br><br>
+    <img src="https://github.com/user-attachments/assets/496853a1-40a4-4143-ba3b-a9d5d990fdbf" width="700">
+  </div>
 
   - [期末成果報告](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C%E5%A0%B1%E5%91%8A.pdf)（我的成果於簡報「2.成果展示」，p5-p15）
   - 我的負責內容（我負責架構圖中紫色部分的視窗與功能開發，並為粉色部分視窗設計）
@@ -19,7 +19,7 @@ Python程式設計與資料庫實務
     - 部分[visual_drawing.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/visual_drawing.py)、[visual_drawing_ui.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/visual_drawing_ui.py)：選擇某項條件，並將該條件與員工離職狀況視覺化的程式碼與頁面
     - [drawing_answer.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/drawing_answer.py)、[drawing_answer_ui.py](https://github.com/janiceHuuu/employee_management_system/blob/main/code%2Bdata/drawing_answer_ui.py)：呈現視覺化的程式碼與頁面
 
-<br><br>
+<br>
 
 - [作業一](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/tree/main/%E4%BD%9C%E6%A5%AD%201)：個人獨立完成，內容為python程式設計
   - [題目](https://github.com/janiceHuuu/112-2-python-programming-and-database-practices/blob/main/%E4%BD%9C%E6%A5%AD%201/Assignment%201%E9%A1%8C%E7%9B%AE.pdf)
